@@ -1,5 +1,7 @@
 # flutter_ui_smarthome
 
+<img src="ss/demo.gif" width="30%">
+
 A new Flutter application.
 
 ## Getting Started
